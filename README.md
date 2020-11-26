@@ -25,4 +25,16 @@ For starters, I imagine three things we can use this repo for.
 
 ## How can I contribute?
 
+1. **Information Gathering.** I have started a list of resources [here](Resources.md). Please create a pull request to contribute.
+
+2. **Solution Discussing.** I have created the first Github issue for discussing potential solutions ([here](https://github.com/felicitia/FightingAcademicMisconduct/issues/1)). Please use the tag **"suggestion"** when you create such issue.
+
+3. **Evidence Reporting.** Similar to **Solution Discussing**, please create a Github issue and use **evidence** tag. If you don't have solid evidence yet but want to bring something into attention, you can use **bug** tag to report potential academic misconduct. 
+
 ## Disclaimer
+
+This is my personal action and all opinions are my own. I'm starting this Github repo to have a central place for everyone to contribute in an easier way. However, I am not responsible for the content posted here (I don't know anything more than you do and I'm only building a bridge for collaborative efforts). I have a busy full-time job and I'm not the "go-to person" for academic misconduct. Please use thie Github repo for anything related to make the whole process transparent instead of contacting me personally. Thanks for you understanding.
+
+And here's the hope for a better world ❤️
+
+Yixue Zhao, Nov 26 2020
