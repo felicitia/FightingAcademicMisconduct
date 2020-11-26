@@ -1,4 +1,4 @@
-# FightingAcademicMisconduct
+# Fighting Academic Misconduct
 
 ## Why do I start this?
 In June 2019, as a victim of academic misconduct, Ph.D. student [Huixiang Chen](https://sites.google.com/site/huixiangchen5319/) from University of Florida decided to end his life ([full story here](https://medium.com/@huixiangvoice/the-hidden-story-behind-the-suicide-phd-candidate-huixiang-chen-236cd39f79d3)). That was the first time I learned about academic misconduct, and such tragedy deeply broke my heart. I felt I needed to do something. I wrote an article to share my feelings and pointed out some ways as starting points to deal with academic misconduct in the end ([my article here](https://medium.com/@yixue_zhao/academic-misconduct-can-kill-innocent-lives-thoughts-on-huixiang-chens-suicide-f619f6465a80)).
