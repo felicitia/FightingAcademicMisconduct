@@ -13,7 +13,7 @@ Professor T. N. Vijaykumar's recent article (that I mentioned above) started fro
 This got me thinking that Github repo might be a good place to collaborate. Since official organization to deal with this issue can take time to form, Github on the other hand is "quick and easy". Everyone can contribute to it with "unofficial information", serving as a starting point to help official organizations to tackle this problem more fundamentally.
 
 ## What this GitHub repo is about?
-First off, this is my rough idea on a whime and I welcome any comments to make it better! 
+This is my rough idea on a whim and I welcome any comments to make it better! 
 
 For starters, I imagine three things we can use this repo for.
 
