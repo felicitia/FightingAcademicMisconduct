@@ -29,7 +29,7 @@ For starters, I imagine three things we can use this repo for.
 
 2. **Solution Discussing.** I have created the first Github issue for discussing potential solutions ([here](https://github.com/felicitia/FightingAcademicMisconduct/issues/1)). Please use the tag **"suggestion"** when you create such issue.
 
-3. **Evidence Reporting.** Similar to **Solution Discussing**, please create a Github issue and use **"evidence"** tag. If you don't have solid evidence or you don't wish to share in public, but want to bring something into attention, you can use **"bug"** tag to report potential academic misconduct. 
+3. **Evidence Reporting.** Similar to **Solution Discussing**, please create a Github issue and use **"evidence"** tag. If you don't have solid evidence or you don't wish to share in public, but want to bring something into attention, you can use **"bug"** tag to report potential academic misconduct. Note: This information can be sensitive, so **please consider the unintended consequences carefully**. For example, if you have detailed information that points to specific names, please consider using private channels such as contacting conference chairs and journal editors before the information is verified. You're more than welcome to add such evidence into this public repo once it's verified by officials.
 
 ## Disclaimer
 
