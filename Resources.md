@@ -3,6 +3,7 @@
 **Please create a pull request to contribute to the list.** 💪
 
 - Ongoing. [Timeline of the alleged ISCA 2019 peer-review incident](https://pbzcnepu.net/isca/timeline.html)
+- Nov 2020. [Statement on the Integrity of the ASPLOS’21 Paper Selection Process](https://asplos-conference.org/process-integrity/). Emery Berger & Christos Kozyrakis (ASPLOS’21 Program Committee co-chairs) with input from and endorsed by the ASPLOS Steering Committee.
 - Nov 12 2020. [Potential Organized Fraud in On-Going ASPLOS Reviews](https://medium.com/@tnvijayk/potential-organized-fraud-in-on-going-asplos-reviews-874ce14a3ebe). T. N. Vijaykumar.
 - May 12 2020. [Potential Organized Fraud in ACM/IEEE Computer Architecture Conferences](https://medium.com/@tnvijayk/potential-organized-fraud-in-acm-ieee-computer-architecture-conferences-ccd61169370d). T. N. Vijaykumar.
 - Jan 28 2020. [Evidence Puts Doubts on the IEEE/ACM’s Investigation](https://medium.com/@huixiangvoice/evidence-put-doubts-on-the-ieee-acms-investigation-991a6d50802a). Huixiang Voice.
