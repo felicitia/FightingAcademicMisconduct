@@ -3,6 +3,11 @@
 **Please create a pull request to contribute to the list.** 💪
 
 - Ongoing. [Timeline of the alleged ISCA 2019 peer-review incident](https://pbzcnepu.net/isca/timeline.html)
+- Mar 2021. [University of Florida professor on paid leave amid investigation into abusive behavior toward grad student who died by suicide](https://www.nydailynews.com/news/national/ny-university-florida-professor-li-graduate-student-suicide-20210303-yk37y7ie3fd2vc7k3m7u5nc44y-story.html). Kate Feldman.
+- Mar 2021. [A Death, a Suspension](https://www.insidehighered.com/news/2021/03/03/u-florida-suspends-professor-blamed-students-suicide). Colleen Flaherty. 
+- Mar 2021. [University of Florida Places Professor On Leave Amid Investigation Into Student’s Suicide](https://www.wuft.org/news/2021/03/01/university-of-florida-places-professor-on-leave-amid-investigation-into-students-suicide/). Alex DeLuca.
+- Feb 2021. [A Dishonest, Indifferent, and Toxic Culture](https://huixiangvoice.medium.com/a-dishonest-indifferent-and-toxic-culture-113339aa67e9). Huixiang Voice.
+- Feb 2021. [Questions About Policies & Processes in the Wake of JIC](https://www.sigarch.org/questions-about-policies-processes-in-the-wake-of-jic/). The SIGARCH Executive Committee.
 - Nov 2020. [Statement on the Integrity of the ASPLOS’21 Paper Selection Process](https://asplos-conference.org/process-integrity/). Emery Berger & Christos Kozyrakis (ASPLOS’21 Program Committee co-chairs) with input from and endorsed by the ASPLOS Steering Committee.
 - Nov 12 2020. [Potential Organized Fraud in On-Going ASPLOS Reviews](https://medium.com/@tnvijayk/potential-organized-fraud-in-on-going-asplos-reviews-874ce14a3ebe). T. N. Vijaykumar.
 - May 12 2020. [Potential Organized Fraud in ACM/IEEE Computer Architecture Conferences](https://medium.com/@tnvijayk/potential-organized-fraud-in-acm-ieee-computer-architecture-conferences-ccd61169370d). T. N. Vijaykumar.
