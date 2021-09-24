@@ -3,6 +3,8 @@
 **Please create a pull request to contribute to the list.** 💪
 
 - Ongoing. [Timeline of the alleged ISCA 2019 peer-review incident](https://pbzcnepu.net/isca/timeline.html)
+- Aug 2021. [Upholding ACM's Principles](https://cacm.acm.org/magazines/2021/8/254301-upholding-acms-principles/fulltext). Marty J. Wolf, Don Gotterbarn, Michael Kirkpatrick.
+- Aug 2021. [Family of UF grad student in suicide files legal claim against university](https://www.orlandosentinel.com/news/florida/os-ne-uf-grad-student-family-sues-university-20210813-wlxs3zanqrbwdghgoq7mdkbqui-story.html). Thomas J. Weber.
 - Mar 2021. [Demand that UF release the investigation into Huixiang Chen's abuse and suicide](https://www.change.org/EndTheSilenceUF). Caleb Bryant.
 - Mar 2021. [University of Florida professor on paid leave amid investigation into abusive behavior toward grad student who died by suicide](https://www.nydailynews.com/news/national/ny-university-florida-professor-li-graduate-student-suicide-20210303-yk37y7ie3fd2vc7k3m7u5nc44y-story.html). Kate Feldman.
 - Mar 2021. [A Death, a Suspension](https://www.insidehighered.com/news/2021/03/03/u-florida-suspends-professor-blamed-students-suicide). Colleen Flaherty. 
